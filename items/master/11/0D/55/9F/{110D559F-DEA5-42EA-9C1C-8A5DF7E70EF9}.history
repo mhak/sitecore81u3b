@@ -108,9 +108,28 @@
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4cdc2d0b94573a9643f23dcb65084eb65dd6dcdf",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.2.1",
     "deploymentId": "d7b3392e-c636-44e9-8530-befc3412d44e"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T22:45:09.1754960Z",
+    "label": "Rollback package - QA deployment v3",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
   }
 ]
