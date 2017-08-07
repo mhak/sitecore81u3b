@@ -32,9 +32,28 @@
     "itemName": "Home",
     "itemPath": "/sitecore/content/Home",
     "template": "Sample Item",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "13858f8c7b96eb4f2789369ebc0fb59ef22f51ef",
     "sitecoreVersion": "8.1.160519",
     "vaultVersion": "1.2.1",
     "deploymentId": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T22:40:58.9272761Z",
+    "label": "Deployed from QA deployment v2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "27c635bf-cde6-4d5d-b8b1-1bbb2652ad49"
   }
 ]
