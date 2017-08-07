@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T22:39:01.7237968Z",
+    "label": "Deployed from QA deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "DEV\\sitecore\\admin",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.1",
+    "deploymentId": "634bb9ef-98a4-494d-8e67-70776783e606"
+  }
+]
