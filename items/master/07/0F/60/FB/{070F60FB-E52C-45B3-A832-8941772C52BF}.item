@@ -2,8 +2,8 @@
 version: 1
 id: {070F60FB-E52C-45B3-A832-8941772C52BF}
 database: master
-path: /New Page
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Home/New Page
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
 name: New Page
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
@@ -17,3 +17,8 @@ key: __workflow
 content-length: 38
 
 {A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}
+----version----
+language: en
+version: 1
+revision: 
+
